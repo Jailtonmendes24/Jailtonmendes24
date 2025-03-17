@@ -1,7 +1,7 @@
 
 ## 🚀 Sobre mim
 👋 Olá! Sou Jailton Mendes
-Sou desenvolvedor frontend, com experiência em React, React Native, Angular, Ionic e TypeScript. Tenho conhecimento em testes unitários e sigo boas práticas para garantir a qualidade e manutenção do código.
+Sou desenvolvedor frontend, com experiência em React, React Native, Angular, Ionic e TypeScript.
 
 Já trabalhei em equipes ágeis, aplicando metodologias como Scrum e Kanban para entregar soluções eficientes e bem estruturadas. Meu foco está sempre na solução do problema, independentemente da tecnologia, buscando desenvolver produtos robustos e escaláveis.
 
